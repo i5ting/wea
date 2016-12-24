@@ -1,6 +1,6 @@
 {
   "name": "wea-jade",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "pug.js",
   "scripts": {
