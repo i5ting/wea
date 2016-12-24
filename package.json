@@ -1,0 +1,31 @@
+{
+  "name": "wea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/wea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/wea/issues"
+  },
+  "homepage": "https://github.com/i5ting/wea#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "rdl": "^1.0.3"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.5",
+    "koa": "^2.0.0-alpha.7",
+    "nunjucks": "^3.0.0",
+    "pug": "^2.0.0-beta6",
+    "lerna": "2.0.0-beta.31"
+  }
+}
