@@ -2,7 +2,7 @@
 
 var ejs = require('ejs')
 
-const BasePlugin = require('./base')
+const BasePlugin = require('wea-base')
 
 class EjsPlugin extends BasePlugin {
   constructor (base, url) {

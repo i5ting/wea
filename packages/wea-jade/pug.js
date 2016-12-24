@@ -2,7 +2,7 @@
 
 var pug = require('pug');
 
-const BasePlugin = require('./base')
+const BasePlugin = require('wea-base')
 
 class PugPlugin extends BasePlugin {
   constructor (base, url) {
